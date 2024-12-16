@@ -1,0 +1,1 @@
+window.Config={SiteName:"\u7f51\u9875\u72b6\u6001",ApiKeys:["u2111979-844cd44854ebf2d81d73ba03"],CountDays:70,ShowLink:!0,Navi:[{text:"Homepage",url:"https://wrm244.gxist.cn/"},{text:"GitHub",url:"https://github.com/wrm244"}]};

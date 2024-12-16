@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[363],{65094:e=>{e.exports=JSON.parse('{"tag":{"label":"config","permalink":"/docs/tags/config","allTagsPath":"/docs/tags","count":1,"items":[{"id":"stack/config/mavenConfig","title":"Maven Config","description":"maven settings \u914d\u7f6e\u6587\u4ef6","permalink":"/docs/mavenConfig"}],"unlisted":false}}')}}]);
